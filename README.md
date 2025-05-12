@@ -1,8 +1,5 @@
 # Terminal Emulator for Android
 
-*Note:* Terminal Emulator for Android development has ended. I am not
-accepting pull requests any more.
-
 Terminal Emulator for Android is a terminal emulator for communicating with the
 built-in Android shell. It emulates a reasonably large subset of Digital
 Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs"
